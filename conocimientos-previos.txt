@@ -1,0 +1,3 @@
+"CONOCIMIENTOS PREVIOS"
+
+1. Programación en Python
